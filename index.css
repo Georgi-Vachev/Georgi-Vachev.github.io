@@ -1,0 +1,14 @@
+.profile-pic {
+    border-width:3px !important;
+    
+    z-index: 1;
+}
+
+body{
+    background-color: rgb(39, 38, 38);
+}
+
+div {
+    padding: 0 !important;
+    z-index: 2;
+}

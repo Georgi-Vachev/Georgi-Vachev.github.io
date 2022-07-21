@@ -35,7 +35,13 @@ video{
     padding: 1.5vw 0 0 0;
 }
 
-h3, p {
+h3{
     font-size: 2vw;
 }
 
+.col-5 p {
+    margin:auto;
+    text-align: center;
+    padding: 1vw 2vw 1vw 2vw;
+    font-size: 2vw;
+}

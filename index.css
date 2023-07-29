@@ -1,41 +1,47 @@
 .profile-pic {
-    border-width:2px !important;
+    border-width: 2px !important;
 }
-body{
+
+body {
     background-color: rgb(39, 38, 38);
     color: white;
     padding: 0;
     margin: 0 0px 0 0;
-    
+
 }
+
 div {
     padding: 0 !important;
     margin: 0 !important;
 }
+
 .col-12 h1 {
     font-size: 3vw;
     margin: 0 0;
 }
-.col-4{
-   
-    min-height:20vw;
+
+.col-4 {
+
+    min-height: 20vw;
 }
-.footer-col{
+
+.footer-col {
     min-height: 3vw;
 }
 
-.about-col p, a{
-    display:flex;
+.about-col p,
+a {
+    display: flex;
     justify-content: center;
     font-size: 1.5vw !important;
 }
 
-video{
+video {
     width: 75%;
     padding: 1.5vw 0 0 0;
 }
 
-h3{
+h3 {
     font-size: 2vw;
 }
 
